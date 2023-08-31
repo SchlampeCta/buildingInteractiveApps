@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <!-- Nuevo recurso y el valor del recurso-->
+    <string name="find_beer">Buscar!</string>
+    <string name="brands">No ha seleccionado</string>
+
+    
+    <string-array name="beer_colors">
+        <item>Informativas</item>
+        <item>Restrictivas</item>
+        <item>Preventivas</item>
+        <item>Transitorias</item>
+    </string-array>
+</resources>
